@@ -6,6 +6,16 @@ NOMBRE: PAMEL AMONTATIXE
 NRC: 10069
 ING: DARWIN ALULEMA
 
+OBJETIVOS:
+
+Realizar ejercicios con números complejos
+Determinar la impedancia de un circuito RC en serie
+Analizar un circuito RC en serie
+Determinar la impedancia y admitancia en un circuito RL en paralelo 
+Determinar potencias en circuitos RL
+Localizar fallas en circuitos RL
+
+
 MARCO TEÓRICO:
 EJERCICIOS:
 ![image](https://user-images.githubusercontent.com/116780506/221463461-e0041f50-f6f0-4d28-9397-15b678a55b43.png)
@@ -66,3 +76,17 @@ EJERCICIOS:
 ![image](https://user-images.githubusercontent.com/116780506/221464674-5436f353-1756-48d1-9907-205c6e983e2d.png)
 
 ![image](https://user-images.githubusercontent.com/116780506/221464699-340a3852-a368-46e4-8285-da9635a92ffb.png)
+
+CONCLUSIONES
+
+El sistema de números somplejos es una forma de expresar matemáticamente una cantidad fasorial y permite sumar, restar, multiplicar y dividir cantidades fasoriales.
+  Un circuito RC contiene resistencia como capacitancia
+LLas aplicaciones de circuitos RL incluyen filtros y reguladores de conmutación.
+
+VIDEO:
+https://drive.google.com/file/d/19lpACqSrNWyzh4-B9holDQhocsQjo9FA/view?usp=sharing
+
+BIBLIOGRAFÍA:
+FLOYD, THOMAS L. (2007). Principios de circuitos eléctricos. Octava edición PEARSON EDUCACIÓN.
+
+
