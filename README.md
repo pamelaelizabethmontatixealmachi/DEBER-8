@@ -17,6 +17,13 @@ Localizar fallas en circuitos RL
 
 
 MARCO TEÓRICO:
+
+![1](https://user-images.githubusercontent.com/116780506/222036684-99c94616-0081-4c25-8436-6e8d51338998.jpg)
+
+![2](https://user-images.githubusercontent.com/116780506/222036717-cb6e01c7-6b95-4c45-b31d-59b667da6a51.jpg)
+
+
+
 EJERCICIOS:
 ![image](https://user-images.githubusercontent.com/116780506/221463461-e0041f50-f6f0-4d28-9397-15b678a55b43.png)
 
